@@ -9,30 +9,9 @@ Aqui divulgaremos os eventos dos provedores de cloud para você aprimorar sua ca
 
 ## Azure
 
-https://www.microsoft.com/pt-br/Cloud-Skill-Challenge-Security-Brazil/
+- (Até Setembro 2021) Desafio de segurança na nuvem: https://www.microsoft.com/pt-br/Cloud-Skill-Challenge-Security-Brazil/
 
+## OCI
 
-```mermaid
-graph TB
+- (Até Dezembro / 2021) OCI Free certification and Courses: https://www.oracle.com/news/announcement/oracle-offers-free-training-and-certification-for-oracle-cloud-infrastructure-2021-09-08/
 
-  SubGraph1 --> SubGraph1Flow
-  subgraph "SubGraph 1 Flow"
-  SubGraph1Flow(SubNode 1)
-  SubGraph1Flow -- Choice1 --> DoChoice1
-  SubGraph1Flow -- Choice2 --> DoChoice2
-  end
-
-  subgraph "Main Graph"
-  Node1[Node 1] --> Node2[Node 2]
-  Node2 --> SubGraph1[Jump to SubGraph1]
-  SubGraph1 --> FinalThing[Final Thing]
-end
-```
-
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-```
