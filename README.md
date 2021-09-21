@@ -14,4 +14,3 @@ Aqui divulgaremos os eventos dos provedores de cloud para você aprimorar sua ca
 ## OCI
 
 - (Até Dezembro / 2021) OCI Free certification and Courses: https://www.oracle.com/news/announcement/oracle-offers-free-training-and-certification-for-oracle-cloud-infrastructure-2021-09-08/
-
