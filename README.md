@@ -2,12 +2,6 @@
 
 Aqui divulgaremos os eventos dos provedores de cloud para você aprimorar sua carreira.
 
-1. AWS
-2. Azure
-3. GCP
-4. OCI
-
-
 1. [ AWS ](#1)
 2. [ Azure ](#2)
 3. [ GCP ](#3)
