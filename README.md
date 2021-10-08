@@ -7,6 +7,9 @@ Aqui divulgaremos os eventos dos provedores de cloud para você aprimorar sua ca
 3. GCP
 4. OCI
 
+## AWS
+- Eventos AWS: https://aws.amazon.com/pt/events/?events-master-main.sort-by=item.additionalFields.startDateTime&events-master-main.sort-order=desc&awsf.events-master-type=*all&awsf.events-master-audience=*all&awsf.events-master-level=*all
+
 ## Azure
 - Eventos Azure: https://azure.microsoft.com/pt-br/resources/events/
 
